@@ -32,4 +32,8 @@ bug提交：http://www.phpwind.net/thread-htm-fid-54.html
 
 ----------
 
+下载地址：
+
+https://raw.githubusercontent.com/MIrrorsCode/Website-Source/master/phpwind/phpwind_v9.tar.gz
+
 SEasy.Wang!融易网.网络资源库
